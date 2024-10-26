@@ -1,0 +1,16 @@
+{
+  "name": "nuxt-firebase-auth",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "firebase": "^10.7.1"
+  },
+  "devDependencies": {
+    "nuxt": "^3.9.0"
+  }
+}
