@@ -1,0 +1,1 @@
+# mini-nuxt-firebaseauth
